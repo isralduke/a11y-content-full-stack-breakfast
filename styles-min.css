@@ -1,0 +1,43 @@
+:root {
+  --color-link: #0057d7;
+}
+body {
+  padding: 2rem;
+  font-size: 1.125rem;
+  font-family: 'Lexend Deca';
+}
+h1 {
+  line-height: 1;
+}
+section {
+  display: block;
+}
+details summary > * {
+  display: inline;
+}
+.visually-hidden {
+  position: absolute;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  padding: 0 !important;
+  border: 0 !important;
+  height: 1px !important;
+  width: 1px !important;
+  overflow: hidden !important;
+}
+a {
+  text-decoration-thickness: 1px;
+  -webkit-text-decoration-line: underline;
+  text-decoration-line: underline;
+  -webkit-text-decoration-color: #0057d780;
+  text-decoration-color: #0057d780;
+  display: inline-block;
+}
+a + a {
+  margin-top: .5rem;
+}
+img {
+  border-radius: .25rem;
+}
+main {
+  padding: 0;
+}
