@@ -9,20 +9,20 @@
   ],
   "creatorBuild" : "34365",
   "files" : {
-    "\/.gitignore" : {
+    "\/friendly-content.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/.gitignore",
+      "oAP" : "\/friendly-content.html",
       "oF" : 0
     },
-    "\/accessible.html" : {
+    "\/hostile-content.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/accessible.html",
+      "oAP" : "\/hostile-content.html",
       "oF" : 0
     },
     "\/images\/77633hdfn-cvirffvv35j3fc.jpg" : {
@@ -31,6 +31,32 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/77633hdfn-cvirffvv35j3fc.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/friendly-cake.jpg" : {
+      "ft" : 16384,
+      "iS" : 99667,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/friendly-cake.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/hostile-stack.jpg" : {
+      "ft" : 16384,
+      "iS" : 159928,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/hostile-stack.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -64,6 +90,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/slide-stack.jpg" : {
+      "ft" : 16384,
+      "iS" : 196002,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/slide-stack.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/waffles.jpg" : {
       "ft" : 16384,
       "iS" : 132680,
@@ -85,13 +124,33 @@
       "oAP" : "\/index.html",
       "oF" : 0
     },
-    "\/not-accessible.html" : {
+    "\/LICENSE" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/not-accessible.html",
+      "oAP" : "\/LICENSE",
       "oF" : 0
+    },
+    "\/presentation-slide-deck.pdf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/presentation-slide-deck.pdf",
+      "oF" : 0
+    },
+    "\/styles-min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/styles-min-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/styles.css" : {
       "aP" : 1,
@@ -114,7 +173,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 683651618.92399204,
-    "displayValue" : "full-stack-breakfast",
+    "displayValue" : "a11y-content-full-stack-breakfast",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-brick",
     "iconImageWasSetByUser" : 0
