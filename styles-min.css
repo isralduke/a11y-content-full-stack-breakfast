@@ -12,6 +12,7 @@ header {
   border-radius: .2rem;
   padding: 1rem 0;
   margin-bottom: 3rem;
+  text-align: center;
 }
 header img {
   width: 256px;
@@ -64,6 +65,7 @@ a + a {
 }
 img {
   border-radius: .25rem;
+  max-width: 100%;
 }
 main {
   padding: 0;
@@ -72,6 +74,7 @@ main {
   display: flex;
   flex-direction: column;
   padding-bottom: 4rem;
+  width: 100%;
 }
 .flex-item {
   width: 100%;
