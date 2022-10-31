@@ -14,19 +14,17 @@ header {
   margin-bottom: 3rem;
   text-align: center;
 }
-header img {
-  width: 256px;
-  padding: 1rem;
-  background-color: #6a6a6a;
-}
 header h1, header p {
   padding: 0 1rem 0 1rem;
 }
 h1 {
   line-height: 1;
 }
-svg {
-
+h2 {
+  width: 100%;
+}
+.text-center {
+  text-align: center;
 }
 svg .mark {
   fill: #ffffff;
